@@ -1,6 +1,6 @@
 # A STUPID GAME
 
-![Game Screenshot](game.png)
+![Game Screenshot](number_game.png)
 
 ## How to Play
 1. Enter a number between 1 and 10.  
